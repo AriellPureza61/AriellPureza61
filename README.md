@@ -1,6 +1,6 @@
 # Olá, eu sou Ariell Pureza 👋
 
-Desenvolvedor de Software focado em criar soluções completas, interfaces de alta performance e sistemas de gestão que resolvem problemas reais de negócio.
+Desenvolvedor de Software focado em criar soluções completas, sistemas de gestão corporativa, CRMs de alta conversão e aplicações web progressivas (PWA) que resolvem problemas reais de negócio.
 
 ---
 
@@ -9,36 +9,39 @@ Desenvolvedor de Software focado em criar soluções completas, interfaces de al
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">🪐 Órion</h3>
+      <h3 align="center">🪐 Claro Órion</h3>
       <p align="center">
-        <b>Sistema de Vendas & CRM</b>
+        <b>CRM & Sistema Inteligente de Vendas</b>
       </p>
-      <p>Sistema completo de inteligência comercial com quebra de objeções em tempo real, pipeline de vendas, rotina diária de backup e interface mobile-first.</p>
-      <p><b>Stack:</b> React, Node.js, SQLite, Tailwind CSS, esbuild</p>
+      <p>Plataforma comercial completa com carteira inteligente (Lista e Kanban), simulador comparativo de ofertas, quebra de objeções em tempo real e esteira pós-venda de instalações.</p>
+      <p><b>Stack:</b> React 18, Tailwind CSS, Node.js, SQLite, esbuild</p>
       <p align="center">
-        <a href="https://github.com/AriellPureza61/claro-orion"><b>Ver Projeto →</b></a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">📊 Gestão Comercial</h3>
-      <p align="center">
-        <b>Painel Executivo Claro & Telecell</b>
-      </p>
-      <p>Plataforma analítica corporativa que substitui planilhas complexas por dashboard executivo com metas, ranking de consultores, PDVs e auditoria PEX/Solar.</p>
-      <p><b>Stack:</b> React, Vite, Tailwind CSS, Excel XLSX</p>
-      <p align="center">
-        <a href="https://github.com/AriellPureza61/gestao-comercial-claro"><b>Ver Projeto →</b></a>
+        <a href="https://claro-orion-portfolio.vercel.app"><b>🌐 Demo Online</b></a> •
+        <a href="https://github.com/AriellPureza61/claro-orion-portfolio"><b>💻 Código →</b></a>
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">💅 Nail Booking</h3>
+      <h3 align="center">📊 B. Flow</h3>
       <p align="center">
-        <b>PWA de Agendamento Online</b>
+        <b>Gestão Comercial Simplificada</b>
       </p>
-      <p>Aplicação web progressiva (PWA) instalável no celular para agendamento interativo de clientes e painel administrativo em tempo real para salões.</p>
-      <p><b>Stack:</b> React 19, Tailwind v4, Vite, Firebase</p>
+      <p>Sistema executivo corporativo que substitui planilhas complexas por painéis de gestão de lojas/PDVs, equipe, controle de credenciais RCV/URA, auditorias de rota, reembolsos e pendências.</p>
+      <p><b>Stack:</b> React 18, Vite, Tailwind CSS, SheetJS (XLSX)</p>
       <p align="center">
-        <a href="https://github.com/AriellPureza61/nail-booking"><b>Ver Projeto →</b></a>
+        <a href="https://b-flow-seven.vercel.app"><b>🌐 Demo Online</b></a> •
+        <a href="https://github.com/AriellPureza61/b-flow"><b>💻 Código →</b></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">💅 B. Planner</h3>
+      <p align="center">
+        <b>PWA de Agendamento & Gestão</b>
+      </p>
+      <p>Aplicação web progressiva (PWA) instalável no celular com agendamento interativo em tempo real para clientes, prevenção de conflitos de agenda e painel administrativo completo.</p>
+      <p><b>Stack:</b> React 19, Tailwind CSS v4, Vite 8, Firebase</p>
+      <p align="center">
+        <a href="https://b-planner.vercel.app"><b>🌐 Demo Online</b></a> •
+        <a href="https://github.com/AriellPureza61/b-planner"><b>💻 Código →</b></a>
       </p>
     </td>
   </tr>
