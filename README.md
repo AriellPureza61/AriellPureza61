@@ -17,6 +17,7 @@ Desenvolvedor de Software focado em criar soluções completas, sistemas de gest
       <p><b>Stack:</b> React 18, Tailwind CSS, Node.js, SQLite, esbuild</p>
       <p align="center">
         <a href="https://claro-orion-portfolio.vercel.app"><b>🌐 Demo Online</b></a> •
+        <a href="https://github.com/AriellPureza61/claro-orion-portfolio/raw/main/docs/demo-orion.mp4"><b>🎥 Vídeo</b></a> •
         <a href="https://github.com/AriellPureza61/claro-orion-portfolio"><b>💻 Código →</b></a>
       </p>
     </td>
