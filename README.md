@@ -30,6 +30,7 @@ Desenvolvedor de Software focado em criar soluções completas, sistemas de gest
       <p><b>Stack:</b> React 18, Vite, Tailwind CSS, SheetJS (XLSX)</p>
       <p align="center">
         <a href="https://b-flow-seven.vercel.app"><b>🌐 Demo Online</b></a> •
+        <a href="https://github.com/AriellPureza61/b-flow/raw/main/docs/demo-bflow.mp4"><b>🎥 Vídeo</b></a> •
         <a href="https://github.com/AriellPureza61/b-flow"><b>💻 Código →</b></a>
       </p>
     </td>
