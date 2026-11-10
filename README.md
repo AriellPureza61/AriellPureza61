@@ -43,6 +43,7 @@ Desenvolvedor de Software focado em criar soluções completas, sistemas de gest
       <p><b>Stack:</b> React 19, Tailwind CSS v4, Vite 8, Firebase</p>
       <p align="center">
         <a href="https://b-planner.vercel.app"><b>🌐 Demo Online</b></a> •
+        <a href="https://github.com/AriellPureza61/b-planner/raw/main/docs/demo-bplanner.mp4"><b>🎥 Vídeo</b></a> •
         <a href="https://github.com/AriellPureza61/b-planner"><b>💻 Código →</b></a>
       </p>
     </td>
