@@ -76,6 +76,6 @@ Publicitário & Estrategista de Marketing focado em Desenvolvimento de Soluçõe
 
 ### 📬 Conecte-se Comigo
 
-- 💼 **LinkedIn:** [linkedin.com/in/ariell-pureza-230465194](https://www.linkedin.com/in/ariell-pureza-230465194/)
+- 💼 **LinkedIn:** [linkedin.com/in/ariellpureza](https://www.linkedin.com/in/ariellpureza/)
 - 💻 **GitHub:** [github.com/AriellPureza61](https://github.com/AriellPureza61)
 - 📸 **Instagram:** [@ariellpureza](https://instagram.com/ariellpureza)
