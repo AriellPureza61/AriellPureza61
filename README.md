@@ -1,6 +1,6 @@
 # Olá, eu sou Ariell Pureza 👋
 
-Desenvolvedor de Software focado em criar soluções completas, sistemas de gestão corporativa, CRMs de alta conversão e aplicações web progressivas (PWA) que resolvem problemas reais de negócio.
+Publicitário & Estrategista de Marketing focado em Desenvolvimento de Soluções Web com IA, sistemas de gestão comercial, CRMs de alta conversão e aplicações web progressivas (PWA) que resolvem problemas reais de negócio.
 
 ---
 
