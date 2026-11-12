@@ -76,5 +76,6 @@ Desenvolvedor de Software focado em criar soluções completas, sistemas de gest
 
 ### 📬 Conecte-se Comigo
 
-- 💼 **GitHub:** [github.com/AriellPureza61](https://github.com/AriellPureza61)
+- 💼 **LinkedIn:** [linkedin.com/in/ariell-pureza-230465194](https://www.linkedin.com/in/ariell-pureza-230465194/)
+- 💻 **GitHub:** [github.com/AriellPureza61](https://github.com/AriellPureza61)
 - 📸 **Instagram:** [@ariellpureza](https://instagram.com/ariellpureza)
